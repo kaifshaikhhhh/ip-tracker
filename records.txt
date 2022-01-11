@@ -1,0 +1,14 @@
+DMA Code:506
+Area Code:617
+Metro Code:Boston, MA
+Zip Code:02142
+Standard Country Code:US
+Country Code 3:USA
+Country Name:United States
+Continent:NA
+Region Code:MA
+City:Cambridge
+Latitude:42.362599999999986
+Longitude:-71.0843
+Time Zone:America/New_York
+Port:80
